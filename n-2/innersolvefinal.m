@@ -1,0 +1,19 @@
+function [finaloutput] = innersolvefinal(n,a)
+output1=innersolve1(n,a);
+output2=innersolve2(n,a);
+output3=innersolve3(n,a);
+output4=innersolve4(n,a);
+output5=innersolve5(n,a);
+output6=innersolve6(n,a);
+output7=innersolve7(n,a);
+output8=innersolve8(n,a);
+output9=innersolve9(n,a);
+output10=innersolve10(n,a);
+output11=innersolve11(n,a);
+output12=innersolve12(n,a);
+output13=innersolve13(n,a);
+output14=innersolve14(n,a);
+output15=innersolve15(n,a);
+output16=innersolve16(n,a);
+finaloutput=[output1;output2;output3;output4;output5;output6;output7;output8;output9;output10;output11;output12;output13;output14;output15;output16];
+end
